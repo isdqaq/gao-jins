@@ -1,0 +1,17 @@
+﻿  demo.cpp
+D:\高精度1\高精度1\demo.cpp(241,26): warning C4267: “参数”: 从“size_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+D:\高精度1\高精度1\demo.cpp(246,27): warning C4267: “参数”: 从“size_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+D:\高精度1\高精度1\demo.cpp(250,33): warning C4267: “参数”: 从“size_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+  高精度1.vcxproj -> D:\高精度1\x64\Debug\高精度1.exe
